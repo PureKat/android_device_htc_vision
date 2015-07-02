@@ -127,7 +127,6 @@ BOARD_USES_LEGACY_RIL := true
 
 # Misc
 BOARD_USE_LEGACY_TRACKPAD := true
-TARGET_ARCH_LOWMEM := true
 PRODUCT_PROPERTY_OVERRIDES += ro.config.low_ram=true
 
 # Screen
